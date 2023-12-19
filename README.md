@@ -1,4 +1,4 @@
-# CSC330-4
+# Java BFS Solver
  
 Objectives:
 Java Skill Enhancement: Further enhance knowledge and skill in Java.
